@@ -2,8 +2,6 @@
 
 Exploration du jeu de données [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis) : profil des clients, évolution des paniers, segmentation et prédiction du réachat.
 
-Ce dépôt est une **version portfolio** du projet pédagogique Epitech **T-DAT-600** (rendu de groupe noté 24/26). Seul le livrable final est conservé. Le projet a été réalisé avec Nadir Ammi Said et Younes Haddad.
-
 ## Présentation
 
 L'objectif est de comprendre comment les clients utilisent le service au fil de leurs commandes. L'analyse porte notamment sur le nombre de commandes, la taille des paniers, le délai entre deux achats, le réachat des produits et les rayons les plus représentés.
