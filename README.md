@@ -216,9 +216,9 @@ Les délais entre commandes sont limités à 30 jours dans les données disponib
 
 Projet pédagogique Epitech (module T-DAT-600), réalisé par :
 
-- Michaël Girardet
-- Nadir Ammi Said
-- Younes Haddad
+- [Michaël Girardet](https://github.com/michaelgirardet)
+- [Nadir Ammi Said](https://github.com/nadir-ammisaid)
+- [Younes Haddad](https://github.com/Younes-haddad)
 
 Cette version publique est maintenue par Michaël Girardet à des fins de portfolio.
 
