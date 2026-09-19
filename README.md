@@ -220,8 +220,6 @@ Projet pédagogique Epitech (module T-DAT-600), réalisé par :
 - [Nadir Ammi Said](https://github.com/nadir-ammisaid)
 - [Younes Haddad](https://github.com/Younes-haddad)
 
-Cette version publique est maintenue par Michaël Girardet à des fins de portfolio.
-
 ## Licence
 
 Le code de ce dépôt est publié sous licence [MIT](LICENSE). Les données Instacart ne sont pas redistribuées et restent soumises aux conditions de leur source d'origine.
