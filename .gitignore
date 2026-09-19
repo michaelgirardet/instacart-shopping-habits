@@ -1,0 +1,10 @@
+.cursor/
+.venv/
+venv/
+datasets/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.virtual_documents/
+.exploration.ipynb.layout
